@@ -1,0 +1,7 @@
+{
+  "react": "core:react",
+  "react-dom": "core:react-dom",
+  "mobx": "core:mobx",
+  "mobx-react": "core:mobx-react",
+  "@kube-design/components": "core:@kube-design/components"
+}
